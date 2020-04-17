@@ -13,7 +13,10 @@ class Verify2 : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.verify2)
-
+        //Tanggal :16/4/2020
+        //Nim : 10117189
+        //nama : Agung Maulana
+        //IF-5
     button5.setOnClickListener {
 
 
